@@ -1,2 +1,11 @@
+.div1{
+    margin: 20px;
 
-/* Your CSS Code here. */
+}
+.div2{
+    border: 15px solid blue;
+}
+.div3{
+    padding: 50px;
+    background-color: lightblue;
+}
