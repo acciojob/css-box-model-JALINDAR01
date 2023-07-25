@@ -1,12 +1,7 @@
-.div1{
-    margin: 20px;
-
-}
-.div2{
-    border: 15px solid blue;
-}
-.div3{
-    padding: 50px;
-    background-color: lightblue;
+div{
 	width: 300px;
+	background-color: lightblue;
+	border: 15px solid blue;        
+    margin: 20px;
+    padding: 50px;	
 }
